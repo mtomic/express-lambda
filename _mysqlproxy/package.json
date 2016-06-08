@@ -1,0 +1,11 @@
+{
+  "name": "mysql-proxy",
+  "description": "MySQL Proxy",
+  "version": "0.0.1",
+  "author": "Marko Tomic <marko@markomedia.com.au>",
+  "dependencies": {
+    "mysql": "2.10.*",
+    "bluebird": "^3.3.5"
+  },
+  "license": "MIT"
+}
